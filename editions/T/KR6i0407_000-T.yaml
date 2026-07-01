@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0407/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 貝多樹下思惟十二因緣經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0713.xml
+    old_id: T16n0713
+hash: sha256:71707db2e8f6939e03369f4c7906e3f90dfc41102511b6e4abe2cdeb6f530aef

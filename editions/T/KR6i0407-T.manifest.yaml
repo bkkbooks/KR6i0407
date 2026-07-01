@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6i0407/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0407/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 貝多樹下思惟十二因緣經
+  identifiers:
+    krp: KR6i0407
+    cbeta: T16n0713
+    cbeta_old_id: T16n0713
+    authorityid: CA0000290
+    json_key: T0713
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0713.xml
+    old_id: T16n0713
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0407_000-T.yaml, hash: 'sha256:71707db2e8f6939e03369f4c7906e3f90dfc41102511b6e4abe2cdeb6f530aef'}
+  - {seq: 1, filename: KR6i0407_001-T.yaml, hash: 'sha256:d48a80cf47bacd21b4c0c799a8d59d30c283aabe9c48978f437cc2bdfb6167d6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0407_000-T.markers.yaml, hash: 'sha256:59d008374951b1531731906fc0795bbd48df59dc97804aaccd6bf5c8a158f40c'}
+  - {seq: 1, role: markers, filename: assets/KR6i0407_001-T.markers.yaml, hash: 'sha256:84bfea85045e4784757d2d29fc0976b7d933573e95e817c2be9a64983f0c5395'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0407_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1622
+  label: '貝多樹下思惟十二因緣經亦名聞城
+
+    十二因緣經'
+  type: juan
+  level: 1
+hash: sha256:0af8e6ee2c1bffe519524d416621a3f14d79021638cfaa47a921c252abac21e8
