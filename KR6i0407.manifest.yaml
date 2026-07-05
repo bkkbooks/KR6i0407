@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0407_000.yaml, hash: 'sha256:71707db2e8f6939e03369f4c7906e3f90dfc41102511b6e4abe2cdeb6f530aef'}
-  - {seq: 1, filename: KR6i0407_001.yaml, hash: 'sha256:75d186241d5ede7976eb88ea76930d556499170577897d532fea6407fdcb4d5d'}
+  - {seq: 1, filename: KR6i0407_001.yaml, hash: 'sha256:d48a80cf47bacd21b4c0c799a8d59d30c283aabe9c48978f437cc2bdfb6167d6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0407_001.markers.yaml, hash: 'sha256:42d042ab4f4339901b1179962af2068cb85c09dbe6dc62e189d39ace2620232e'}
+  - {seq: 0, role: markers, filename: assets/KR6i0407_000.markers.yaml, hash: 'sha256:d218f875db5296dbfa83d50d1eff197a7f1529de6d72fea93217f683b0898a2a'}
+  - {seq: 1, role: markers, filename: assets/KR6i0407_001.markers.yaml, hash: 'sha256:958913ef13a354ce76e39703dc1a44505968bce66976ad0fa6f61de3b69c4738'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,7 +48,4 @@ table_of_contents:
     十二因緣經'
   type: juan
   level: 1
-hash: sha256:10075cae7e114336b58d676c068168d77306b16545c37cc7d468741567dc4c91
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:311d6324f09066bb7729c66c4b2ed0493958efd9219180375be22fa0a3268d20
