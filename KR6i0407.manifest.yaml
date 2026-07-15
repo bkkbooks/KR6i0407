@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0407/v1
 canonical_location: https://kanripo.org/bkk/KR6i0407/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 貝多樹下思惟十二因緣經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0407_000.yaml, hash: 'sha256:71707db2e8f6939e03369f4c7906e3f90dfc41102511b6e4abe2cdeb6f530aef'}
-  - {seq: 1, filename: KR6i0407_001.yaml, hash: 'sha256:d48a80cf47bacd21b4c0c799a8d59d30c283aabe9c48978f437cc2bdfb6167d6'}
+  - {seq: 1, filename: KR6i0407_001.yaml, hash: 'sha256:027080bb556257fa9a452da31876f86505672c3bd8a85fc649cd9792e2d870ab'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0407_000.markers.yaml, hash: 'sha256:d218f875db5296dbfa83d50d1eff197a7f1529de6d72fea93217f683b0898a2a'}
-  - {seq: 1, role: markers, filename: assets/KR6i0407_001.markers.yaml, hash: 'sha256:958913ef13a354ce76e39703dc1a44505968bce66976ad0fa6f61de3b69c4738'}
+  - {seq: 1, role: markers, filename: assets/KR6i0407_001.markers.yaml, hash: 'sha256:da42139908a8a1321b6ad9453313001b68aaf33f7416c27b906f81ed16bebba0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     十二因緣經'
   type: juan
   level: 1
-hash: sha256:311d6324f09066bb7729c66c4b2ed0493958efd9219180375be22fa0a3268d20
+hash: sha256:1de3ed82092cabc7f6f849ce55fce1d76928db820d9641afc0b4c7035a75327e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
